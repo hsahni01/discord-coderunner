@@ -13,3 +13,7 @@ print("hello")
 
 With the new functionality of adding packages, the bot is more diverse.
 Use .install PACKAGE-NAME to install the packages.
+
+Example
+
+.install requests
